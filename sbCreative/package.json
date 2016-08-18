@@ -6,7 +6,7 @@
   "author": "Nick Catranis",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/catranis-technologies/catranis-technologies.git"
+    "url": "https://github.com/catranis-technologies/catranis-technologies.github.io.git"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/catranis-technologies/catranis-technologies.git"
+    "url": "https://github.com/catranis-technologies/catranis-technologies.github.io.git"
   }
 }
